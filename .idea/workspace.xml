@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee25b1f0-d824-4dcb-a233-a8f90ce5dded" name="Changes" comment="End of Section 7">
+    <list default="true" id="ee25b1f0-d824-4dcb-a233-a8f90ce5dded" name="Changes" comment="End of Section 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/skinet.db-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/skinet.db-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/models/pagination.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/models/pagination.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/models/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/models/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/nav-bar/nav-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/core/nav-bar/nav-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/nav-bar/nav-bar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/core/nav-bar/nav-bar.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/nav-bar/nav-bar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/core/nav-bar/nav-bar.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +55,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Angular .Net Core Demo\skinet\client\src\app\shared" />
+      <recent name="D:\Code\Angular .Net Core Demo\skinet\client\src\app\core" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +76,7 @@
       <workItem from="1681302515830" duration="2988000" />
       <workItem from="1681350120965" duration="359000" />
       <workItem from="1681352852966" duration="2287000" />
-      <workItem from="1681358467427" duration="3707000" />
+      <workItem from="1681358467427" duration="8382000" />
     </task>
     <task id="LOCAL-00001" summary="End of Section 7">
       <created>1681207541761</created>
@@ -71,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681207541761</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="End of Section 8">
+      <created>1681367433294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681367433294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="End of Section 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of Section 7" />
+    <MESSAGE value="End of Section 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of Section 8" />
   </component>
 </project>
